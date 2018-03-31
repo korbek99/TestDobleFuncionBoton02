@@ -1,0 +1,559 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		579F6577206F2DEB00B04645 /* 0021_BotonMovi.png in Resources */ = {isa = PBXBuildFile; fileRef = 579F6576206F2DEB00B04645 /* 0021_BotonMovi.png */; };
+		579F6579206F307700B04645 /* Shampoo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 579F6578206F307700B04645 /* Shampoo2.png */; };
+		57F3E4411E318886007199E6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 57F3E4401E318886007199E6 /* main.m */; };
+		57F3E4441E318886007199E6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 57F3E4431E318886007199E6 /* AppDelegate.m */; };
+		57F3E4471E318886007199E6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57F3E4461E318886007199E6 /* ViewController.m */; };
+		57F3E44A1E318886007199E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57F3E4481E318886007199E6 /* Main.storyboard */; };
+		57F3E44C1E318886007199E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57F3E44B1E318886007199E6 /* Assets.xcassets */; };
+		57F3E44F1E318886007199E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57F3E44D1E318886007199E6 /* LaunchScreen.storyboard */; };
+		57F3E45A1E318886007199E6 /* testDobleFuncionBotonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 57F3E4591E318886007199E6 /* testDobleFuncionBotonTests.m */; };
+		57F3E4651E318886007199E6 /* testDobleFuncionBotonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 57F3E4641E318886007199E6 /* testDobleFuncionBotonUITests.m */; };
+		57F3E4731E31896C007199E6 /* lum02x.png in Resources */ = {isa = PBXBuildFile; fileRef = 57F3E4721E31896C007199E6 /* lum02x.png */; };
+		57F3E4771E318977007199E6 /* boton1.png in Resources */ = {isa = PBXBuildFile; fileRef = 57F3E4741E318977007199E6 /* boton1.png */; };
+		57F3E4781E318977007199E6 /* boton2.png in Resources */ = {isa = PBXBuildFile; fileRef = 57F3E4751E318977007199E6 /* boton2.png */; };
+		57F3E4791E318977007199E6 /* boton3.png in Resources */ = {isa = PBXBuildFile; fileRef = 57F3E4761E318977007199E6 /* boton3.png */; };
+		57F3E47B1E318985007199E6 /* shampoo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57F3E47A1E318985007199E6 /* shampoo.jpg */; };
+		57F3E47D1E3189E2007199E6 /* nophoto.png in Resources */ = {isa = PBXBuildFile; fileRef = 57F3E47C1E3189E2007199E6 /* nophoto.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		57F3E4561E318886007199E6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 57F3E4341E318885007199E6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 57F3E43B1E318886007199E6;
+			remoteInfo = testDobleFuncionBoton;
+		};
+		57F3E4611E318886007199E6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 57F3E4341E318885007199E6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 57F3E43B1E318886007199E6;
+			remoteInfo = testDobleFuncionBoton;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		579F6576206F2DEB00B04645 /* 0021_BotonMovi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0021_BotonMovi.png; sourceTree = "<group>"; };
+		579F6578206F307700B04645 /* Shampoo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Shampoo2.png; sourceTree = "<group>"; };
+		57F3E43C1E318886007199E6 /* testDobleFuncionBoton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testDobleFuncionBoton.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		57F3E4401E318886007199E6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		57F3E4421E318886007199E6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		57F3E4431E318886007199E6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		57F3E4451E318886007199E6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		57F3E4461E318886007199E6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		57F3E4491E318886007199E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		57F3E44B1E318886007199E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		57F3E44E1E318886007199E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		57F3E4501E318886007199E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57F3E4551E318886007199E6 /* testDobleFuncionBotonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testDobleFuncionBotonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		57F3E4591E318886007199E6 /* testDobleFuncionBotonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testDobleFuncionBotonTests.m; sourceTree = "<group>"; };
+		57F3E45B1E318886007199E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57F3E4601E318886007199E6 /* testDobleFuncionBotonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testDobleFuncionBotonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		57F3E4641E318886007199E6 /* testDobleFuncionBotonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testDobleFuncionBotonUITests.m; sourceTree = "<group>"; };
+		57F3E4661E318886007199E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57F3E4721E31896C007199E6 /* lum02x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lum02x.png; sourceTree = "<group>"; };
+		57F3E4741E318977007199E6 /* boton1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boton1.png; sourceTree = "<group>"; };
+		57F3E4751E318977007199E6 /* boton2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boton2.png; sourceTree = "<group>"; };
+		57F3E4761E318977007199E6 /* boton3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boton3.png; sourceTree = "<group>"; };
+		57F3E47A1E318985007199E6 /* shampoo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = shampoo.jpg; sourceTree = "<group>"; };
+		57F3E47C1E3189E2007199E6 /* nophoto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nophoto.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		57F3E4391E318886007199E6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57F3E4521E318886007199E6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57F3E45D1E318886007199E6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		57F3E4331E318885007199E6 = {
+			isa = PBXGroup;
+			children = (
+				57F3E4721E31896C007199E6 /* lum02x.png */,
+				57F3E47A1E318985007199E6 /* shampoo.jpg */,
+				57F3E47C1E3189E2007199E6 /* nophoto.png */,
+				579F6578206F307700B04645 /* Shampoo2.png */,
+				57F3E4741E318977007199E6 /* boton1.png */,
+				579F6576206F2DEB00B04645 /* 0021_BotonMovi.png */,
+				57F3E4751E318977007199E6 /* boton2.png */,
+				57F3E4761E318977007199E6 /* boton3.png */,
+				57F3E43E1E318886007199E6 /* testDobleFuncionBoton */,
+				57F3E4581E318886007199E6 /* testDobleFuncionBotonTests */,
+				57F3E4631E318886007199E6 /* testDobleFuncionBotonUITests */,
+				57F3E43D1E318886007199E6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		57F3E43D1E318886007199E6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				57F3E43C1E318886007199E6 /* testDobleFuncionBoton.app */,
+				57F3E4551E318886007199E6 /* testDobleFuncionBotonTests.xctest */,
+				57F3E4601E318886007199E6 /* testDobleFuncionBotonUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		57F3E43E1E318886007199E6 /* testDobleFuncionBoton */ = {
+			isa = PBXGroup;
+			children = (
+				57F3E4421E318886007199E6 /* AppDelegate.h */,
+				57F3E4431E318886007199E6 /* AppDelegate.m */,
+				57F3E4451E318886007199E6 /* ViewController.h */,
+				57F3E4461E318886007199E6 /* ViewController.m */,
+				57F3E4481E318886007199E6 /* Main.storyboard */,
+				57F3E44B1E318886007199E6 /* Assets.xcassets */,
+				57F3E44D1E318886007199E6 /* LaunchScreen.storyboard */,
+				57F3E4501E318886007199E6 /* Info.plist */,
+				57F3E43F1E318886007199E6 /* Supporting Files */,
+			);
+			path = testDobleFuncionBoton;
+			sourceTree = "<group>";
+		};
+		57F3E43F1E318886007199E6 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				57F3E4401E318886007199E6 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		57F3E4581E318886007199E6 /* testDobleFuncionBotonTests */ = {
+			isa = PBXGroup;
+			children = (
+				57F3E4591E318886007199E6 /* testDobleFuncionBotonTests.m */,
+				57F3E45B1E318886007199E6 /* Info.plist */,
+			);
+			path = testDobleFuncionBotonTests;
+			sourceTree = "<group>";
+		};
+		57F3E4631E318886007199E6 /* testDobleFuncionBotonUITests */ = {
+			isa = PBXGroup;
+			children = (
+				57F3E4641E318886007199E6 /* testDobleFuncionBotonUITests.m */,
+				57F3E4661E318886007199E6 /* Info.plist */,
+			);
+			path = testDobleFuncionBotonUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		57F3E43B1E318886007199E6 /* testDobleFuncionBoton */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 57F3E4691E318886007199E6 /* Build configuration list for PBXNativeTarget "testDobleFuncionBoton" */;
+			buildPhases = (
+				57F3E4381E318886007199E6 /* Sources */,
+				57F3E4391E318886007199E6 /* Frameworks */,
+				57F3E43A1E318886007199E6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = testDobleFuncionBoton;
+			productName = testDobleFuncionBoton;
+			productReference = 57F3E43C1E318886007199E6 /* testDobleFuncionBoton.app */;
+			productType = "com.apple.product-type.application";
+		};
+		57F3E4541E318886007199E6 /* testDobleFuncionBotonTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 57F3E46C1E318886007199E6 /* Build configuration list for PBXNativeTarget "testDobleFuncionBotonTests" */;
+			buildPhases = (
+				57F3E4511E318886007199E6 /* Sources */,
+				57F3E4521E318886007199E6 /* Frameworks */,
+				57F3E4531E318886007199E6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				57F3E4571E318886007199E6 /* PBXTargetDependency */,
+			);
+			name = testDobleFuncionBotonTests;
+			productName = testDobleFuncionBotonTests;
+			productReference = 57F3E4551E318886007199E6 /* testDobleFuncionBotonTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		57F3E45F1E318886007199E6 /* testDobleFuncionBotonUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 57F3E46F1E318886007199E6 /* Build configuration list for PBXNativeTarget "testDobleFuncionBotonUITests" */;
+			buildPhases = (
+				57F3E45C1E318886007199E6 /* Sources */,
+				57F3E45D1E318886007199E6 /* Frameworks */,
+				57F3E45E1E318886007199E6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				57F3E4621E318886007199E6 /* PBXTargetDependency */,
+			);
+			name = testDobleFuncionBotonUITests;
+			productName = testDobleFuncionBotonUITests;
+			productReference = 57F3E4601E318886007199E6 /* testDobleFuncionBotonUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		57F3E4341E318885007199E6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = "Jose David Bustos H";
+				TargetAttributes = {
+					57F3E43B1E318886007199E6 = {
+						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = 2U7FA696SS;
+					};
+					57F3E4541E318886007199E6 = {
+						CreatedOnToolsVersion = 7.0.1;
+						TestTargetID = 57F3E43B1E318886007199E6;
+					};
+					57F3E45F1E318886007199E6 = {
+						CreatedOnToolsVersion = 7.0.1;
+						TestTargetID = 57F3E43B1E318886007199E6;
+					};
+				};
+			};
+			buildConfigurationList = 57F3E4371E318885007199E6 /* Build configuration list for PBXProject "testDobleFuncionBoton" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 57F3E4331E318885007199E6;
+			productRefGroup = 57F3E43D1E318886007199E6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				57F3E43B1E318886007199E6 /* testDobleFuncionBoton */,
+				57F3E4541E318886007199E6 /* testDobleFuncionBotonTests */,
+				57F3E45F1E318886007199E6 /* testDobleFuncionBotonUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		57F3E43A1E318886007199E6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				579F6577206F2DEB00B04645 /* 0021_BotonMovi.png in Resources */,
+				57F3E44F1E318886007199E6 /* LaunchScreen.storyboard in Resources */,
+				57F3E47B1E318985007199E6 /* shampoo.jpg in Resources */,
+				57F3E4731E31896C007199E6 /* lum02x.png in Resources */,
+				57F3E44C1E318886007199E6 /* Assets.xcassets in Resources */,
+				57F3E44A1E318886007199E6 /* Main.storyboard in Resources */,
+				57F3E4791E318977007199E6 /* boton3.png in Resources */,
+				57F3E4771E318977007199E6 /* boton1.png in Resources */,
+				579F6579206F307700B04645 /* Shampoo2.png in Resources */,
+				57F3E47D1E3189E2007199E6 /* nophoto.png in Resources */,
+				57F3E4781E318977007199E6 /* boton2.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57F3E4531E318886007199E6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57F3E45E1E318886007199E6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		57F3E4381E318886007199E6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57F3E4471E318886007199E6 /* ViewController.m in Sources */,
+				57F3E4441E318886007199E6 /* AppDelegate.m in Sources */,
+				57F3E4411E318886007199E6 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57F3E4511E318886007199E6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57F3E45A1E318886007199E6 /* testDobleFuncionBotonTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57F3E45C1E318886007199E6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57F3E4651E318886007199E6 /* testDobleFuncionBotonUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		57F3E4571E318886007199E6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 57F3E43B1E318886007199E6 /* testDobleFuncionBoton */;
+			targetProxy = 57F3E4561E318886007199E6 /* PBXContainerItemProxy */;
+		};
+		57F3E4621E318886007199E6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 57F3E43B1E318886007199E6 /* testDobleFuncionBoton */;
+			targetProxy = 57F3E4611E318886007199E6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		57F3E4481E318886007199E6 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				57F3E4491E318886007199E6 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		57F3E44D1E318886007199E6 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				57F3E44E1E318886007199E6 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		57F3E4671E318886007199E6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		57F3E4681E318886007199E6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		57F3E46A1E318886007199E6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2U7FA696SS;
+				INFOPLIST_FILE = testDobleFuncionBoton/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.testDobleFuncionBoton;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		57F3E46B1E318886007199E6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2U7FA696SS;
+				INFOPLIST_FILE = testDobleFuncionBoton/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.testDobleFuncionBoton;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		57F3E46D1E318886007199E6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = testDobleFuncionBotonTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.testDobleFuncionBotonTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testDobleFuncionBoton.app/testDobleFuncionBoton";
+			};
+			name = Debug;
+		};
+		57F3E46E1E318886007199E6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = testDobleFuncionBotonTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.testDobleFuncionBotonTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testDobleFuncionBoton.app/testDobleFuncionBoton";
+			};
+			name = Release;
+		};
+		57F3E4701E318886007199E6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = testDobleFuncionBotonUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.testDobleFuncionBotonUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = testDobleFuncionBoton;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		57F3E4711E318886007199E6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = testDobleFuncionBotonUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = KorbekSA.testDobleFuncionBotonUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = testDobleFuncionBoton;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		57F3E4371E318885007199E6 /* Build configuration list for PBXProject "testDobleFuncionBoton" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57F3E4671E318886007199E6 /* Debug */,
+				57F3E4681E318886007199E6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		57F3E4691E318886007199E6 /* Build configuration list for PBXNativeTarget "testDobleFuncionBoton" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57F3E46A1E318886007199E6 /* Debug */,
+				57F3E46B1E318886007199E6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		57F3E46C1E318886007199E6 /* Build configuration list for PBXNativeTarget "testDobleFuncionBotonTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57F3E46D1E318886007199E6 /* Debug */,
+				57F3E46E1E318886007199E6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		57F3E46F1E318886007199E6 /* Build configuration list for PBXNativeTarget "testDobleFuncionBotonUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				57F3E4701E318886007199E6 /* Debug */,
+				57F3E4711E318886007199E6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 57F3E4341E318885007199E6 /* Project object */;
+}
